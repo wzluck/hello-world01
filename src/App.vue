@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <h2>预祝大家前程似锦</h2>
-
   </div>
 </template>
 
